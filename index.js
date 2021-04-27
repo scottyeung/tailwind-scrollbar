@@ -65,7 +65,7 @@ const SCROLLBAR_SIZE_UTILITIES = {
 
     '&::-webkit-scrollbar': {
       width: '8px',
-      height: '8px'
+      height: '2px'
     }
   },
 
